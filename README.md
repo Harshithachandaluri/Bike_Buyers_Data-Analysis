@@ -1,4 +1,6 @@
 # Bike_Buyers_Data-Analysis
+<img width="614" alt="Bikepurchasedashboard" src="https://github.com/Harshithachandaluri/Bike_Buyers_Data-Analysis/assets/85833792/28618859-ea8f-4b80-80a7-bed4b6638969">
+
 
 Project Overview: Data-Driven Dashboard for Bike Buyers Dataset
 
